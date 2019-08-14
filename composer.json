@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Google_Universal_Analytics",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "Install the new Google Universal Analytics along side or instead of the default Analytics.",
+    "authors": [
+    {
+        "name": "SaveTheMage",
+        "email": "support@savethemage.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<package>
+    <name>Google_Universal_Analytics</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>GPL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Install the new Google Universal Analytics along side or instead of the default Analytics.</summary>
+    <description>&lt;h1&gt;Description&lt;/h1&gt;&#xD;
+&lt;p&gt;This extension installs the new Google Universal Analytics tool without disrupting the already existing one. Run both in their own profiles or disable the old one completely. Just install the extension, put in your Tracking ID (Account Number), and you get full Google Universal Analytics tracking.&#xD;
+&lt;/p&gt;&#xD;
+&#xD;
+&lt;h1&gt;Benefits&lt;/h1&gt;&#xD;
+Read more about all the benefits of &lt;a href="https://support.google.com/analytics/answer/2790010?hl=en" title="Google Universal Analytics Magento" target="_blank"&gt;Google Universal Analytics&lt;/a&gt;.&#xD;
+&#xD;
+&lt;h1&gt;Extension Features&lt;/h1&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Enables Google Universal Analytics in your Magento store&lt;/li&gt;&#xD;
+&lt;li&gt;Automatically enables itself if you enter your Tracking ID&lt;/li&gt;&#xD;
+&lt;li&gt;Automatically disables if there is no Tracking ID (Account Number)&lt;/li&gt;&#xD;
+&lt;li&gt;Is always the newest version! No need to update or re-install as they update and expand Universal Analytics&lt;/li&gt;&#xD;
+&#xD;
+&lt;/ul&gt;&#xD;
+&#xD;
+&#xD;
+&lt;h1&gt;Extensions Include:&lt;/h1&gt;&#xD;
+&lt;p&gt;- Free updates for life&#xD;
+&lt;br /&gt;- Free installation (paid extensions only)&lt;br /&gt;&#xD;
+- 24/7 Email and toll-free support&#xD;
+&lt;/p&gt;&#xD;
+&lt;h1&gt;Support&lt;/h1&gt;&#xD;
+&lt;p&gt;Have any questions about this product? Email us at &lt;a href="mailto:support@savethemage.com"&gt;Support@SaveTheMage.com&lt;/a&gt; or call us Toll-Free at &lt;b&gt;1-888-979-5882&lt;/b&gt;&#xD;
+&lt;/p&gt;&#xD;
+&#xD;
+&lt;h1&gt;Developer Highlight&lt;/h1&gt;&#xD;
+&lt;p&gt;We are working hard to provide quality magento extensions that pack amazing value. With over 20 years combined programming, design and webmaster experience, we are hitting the Magento scene hard. We will do everything to make sure you are 110% satisfied. Check out our other Magento extensions and services at &lt;a href="http://www.savethemage.com/" title="Magento Extensions"&gt;www.SaveTheMage.com&lt;/a&gt;&#xD;
+&lt;/p&gt;</description>
+    <notes>1st Official Release</notes>
+    <authors><author><name>SaveTheMage</name><user>SaveTheMage</user><email>support@savethemage.com</email></author></authors>
+    <date>2013-07-24</date>
+    <time>23:16:58</time>
+    <contents><target name="magelocal"><dir name="SaveTheMage"><dir name="GoogleUniversalAnalytics"><dir name="Helper"><file name="Data.php" hash="2380046ab15f2f2841d3302f87270724"/></dir><dir name="etc"><file name="adminhtml.xml" hash="44fe3393b878c1e84759d6b64532fb0a"/><file name="config.xml" hash="4427ed9de0b9a09913f7dd20c2f57763"/><file name="system.xml" hash="933eca708f0becf88bfded0842530569"/></dir></dir></dir><dir name="frontend"><dir name="base"><dir name="default"><dir name="template"><dir name="SaveTheMage"><dir name="GoogleUniversalAnalytics"><file name="index.phtml" hash=""/></dir></dir></dir></dir></dir></dir><dir name="modules"><file name="SaveTheMage_GoogleUniversalAnalytics.xml" hash=""/></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="SaveTheMage"><file name="GoogleUniversalAnalytics.xml" hash="22ffead97c9d7b67c8b8b3fe10e72faa"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
